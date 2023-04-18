@@ -1,0 +1,8 @@
+{
+    "name":"soapbox",
+    "web":{
+        "rewrites":{
+            "enable":"true"
+        }
+    }
+}
